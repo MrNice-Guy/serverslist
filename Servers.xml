@@ -180,4 +180,29 @@
     <website_url>http://asheron.online</website_url>
     <discord_url></discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>325f9b4d-5e8e-4309-8823-d62ff0a3d7e4</id>
+    <name>HOC</name>
+    <description>A PvE Vanilla ACE Server</description>
+    <emu>ACE</emu>
+    <server_host>craetos.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/F7sVFTv</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>325f9b4d-5e8e-4309-8823-d62ff0a3d7e4</id>
+    <name>HOC-PK</name>
+    <description>an ACE PvP Server with 4xXP and 4xDrop rate changes. No Bots please</description>
+    <emu>ACE</emu>
+    <server_host>craetos.com</server_host>
+    <server_port>9100</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/F7sVFTv</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
+
